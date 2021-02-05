@@ -15,7 +15,7 @@ Extension: .ahk
 Description:    
 Author: Two-Apes    
 
-### 3. Discord [!Unchecked!] Nitro Codes Generator
+### 3. Discord [unchecked] Nitro Codes Generator
 Programming Language: python    
 Extension: .py    
 Description:    
