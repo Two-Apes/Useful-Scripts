@@ -5,7 +5,7 @@
 ### 1. AHK Menu Creator
 Programming Language: AutoHotKey  
 Extension: .ahk   
-Description:    
+Description: Maybe Later    
 Author: Unnamed | Got the code from a random forum  
 Image:    
 
@@ -14,13 +14,13 @@ Image:
 ### 2. Discord DM Deleter
 Programming Language: AutoHotKey    
 Extension: .ahk   
-Description:    
+Description: Maybe Later    
 Author: Two-Apes    
 
 ### 3. Discord [unchecked] Nitro Codes Generator
 Programming Language: python    
 Extension: .py    
-Description:    
+Description: Maybe Later    
 Author: Two-Apes    
 Image:
 
@@ -29,7 +29,7 @@ Image:
 ### 4. Discord Token Generator
 Programming Language: python    
 Extension: .py    
-Description:    
+Description: Maybe Later    
 Author: Two-Apes    
 Image:
 
@@ -38,7 +38,7 @@ Image:
 ### 5. Task Manager Disable && Task Manager Enable   
 Programming Language: batch script    
 Extension: .bat     
-Description:      
+Description: Maybe Later      
 Author: Two-Apes      
 Image:    
 
