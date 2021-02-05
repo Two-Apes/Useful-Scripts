@@ -1,6 +1,6 @@
 # Useful-Scripts
--> Some useful scripts that i found on my computer.
-**!Important** You need to run TaskManagerDisable.bat && TaskManagerEnable.bat as administrator.
+-> Some useful scripts that i found on my computer. 
+**! You need to run TaskManagerDisable.bat && TaskManagerEnable.bat as administrator !**
 
 ### 1. AHK Menu Creator
 Programming Language: AutoHotKey  
