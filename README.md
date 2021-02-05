@@ -1,10 +1,10 @@
 # Useful-Scripts
 -> Some useful scripts that i found on my computer.
 ### 1. AHK Menu Creator
-Programming Language: AutoHotKey
+Programming Language: AutoHotKey  
 Extension: .ahk   
 Description:    
-Author: Unnamed | Got the code from a random forum
+Author: Unnamed | Got the code from a random forum  
 Image:    
 
 ### 2. Discord DM Deleter
