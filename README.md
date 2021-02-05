@@ -9,6 +9,8 @@ Description:
 Author: Unnamed | Got the code from a random forum  
 Image:    
 
+![alt text](https://github.com/Two-Apes/Useful-Scripts/blob/main/Images/MenuCreator.png?raw=true)
+
 ### 2. Discord DM Deleter
 Programming Language: AutoHotKey    
 Extension: .ahk   
@@ -22,6 +24,8 @@ Description:
 Author: Two-Apes    
 Image:
 
+![alt text](https://github.com/Two-Apes/Useful-Scripts/blob/main/Images/NitroGenerator.png?raw=true)
+
 ### 4. Discord Token Generator
 Programming Language: python    
 Extension: .py    
@@ -29,9 +33,13 @@ Description:
 Author: Two-Apes    
 Image:
 
+![alt text](https://github.com/Two-Apes/Useful-Scripts/blob/main/Images/TokenGenerator.png?raw=true)
+
 ### 5. Task Manager Disable && Task Manager Enable   
 Programming Language: batch script    
 Extension: .bat     
 Description:      
 Author: Two-Apes      
 Image:    
+
+![alt text](https://github.com/Two-Apes/Useful-Scripts/blob/main/Images/TaskDisable.png?raw=true)
