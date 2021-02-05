@@ -1,5 +1,7 @@
 # Useful-Scripts
 -> Some useful scripts that i found on my computer.
+**!Important** You need to run TaskManagerDisable.bat && TaskManagerEnable.bat as administrator.
+
 ### 1. AHK Menu Creator
 Programming Language: AutoHotKey  
 Extension: .ahk   
@@ -28,7 +30,7 @@ Description:
 Author: Two-Apes    
 Image:
 
-### 5. Task Manager Disable && Task Manager Enable    
+### 5. Task Manager Disable && Task Manager Enable   
 Programming Language: batch script    
 Extension: .bat     
 Description:      
