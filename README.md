@@ -1,43 +1,36 @@
 # Useful-Scripts
 -> Some useful scripts that i found on my computer.
-### AHK Menu Creator
+### 1. AHK Menu Creator
 Programming Language: AutoHotKey
-Extension: .ahk
-Description: 
+Extension: .ahk   
+Description:    
 Author: Unnamed | Got the code from a random forum
+Image:    
+
+### 2. Discord DM Deleter
+Programming Language: AutoHotKey    
+Extension: .ahk   
+Description:    
+Author: Two-Apes    
 Image:
 
-### Discord DM Deleter
-Programming Language: AutoHotKey
-Extension: .ahk
-Description: 
-Author: Two-Apes
+### 3. Discord Nitro Generator
+Programming Language: python    
+Extension: .py    
+Description:    
+Author: Two-Apes    
 Image:
 
-### Discord Nitro Generator
-Programming Language: python
-Extension: .py
-Description: 
-Author: Two-Apes
+### 4. Discord Token Generator
+Programming Language: python    
+Extension: .py    
+Description:    
+Author: Two-Apes    
 Image:
 
-### Discord Token Generator
-Programming Language: python
-Extension: .py
-Description: 
-Author: Two-Apes
-Image:
-
-### Task Manager Disable
-Programming Language: batch script
-Extension: .bat
-Description: 
-Author: Two-Apes
-Image:
-
-### Task Manager Enable
-Programming Language: batch script
-Extension: .bat
-Description: 
-Author: Two-Apes
-Image:
+### 5. Task Manager Disable && Task Manager Enable    
+Programming Language: batch script    
+Extension: .bat     
+Description:      
+Author: Two-Apes      
+Image:    
