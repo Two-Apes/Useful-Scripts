@@ -1,40 +1,41 @@
 # Useful-Scripts
-## AHK Menu Creator
+-> Some useful scripts that i found on my computer.
+### AHK Menu Creator
 Programming Language: AutoHotKey
 Extension: .ahk
 Description: 
 Author: Unnamed | Got the code from a random forum
 Image:
 
-## Discord DM Deleter
+### Discord DM Deleter
 Programming Language: AutoHotKey
 Extension: .ahk
 Description: 
 Author: Two-Apes
 Image:
 
-## Discord Nitro Generator
+### Discord Nitro Generator
 Programming Language: python
 Extension: .py
 Description: 
 Author: Two-Apes
 Image:
 
-## Discord Token Generator
+### Discord Token Generator
 Programming Language: python
 Extension: .py
 Description: 
 Author: Two-Apes
 Image:
 
-## Task Manager Disable
+### Task Manager Disable
 Programming Language: batch script
 Extension: .bat
 Description: 
 Author: Two-Apes
 Image:
 
-## Task Manager Enable
+### Task Manager Enable
 Programming Language: batch script
 Extension: .bat
 Description: 
