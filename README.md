@@ -14,9 +14,8 @@ Programming Language: AutoHotKey
 Extension: .ahk   
 Description:    
 Author: Two-Apes    
-Image:
 
-### 3. Discord Nitro Generator
+### 3. Discord [!Unchecked!] Nitro Codes Generator
 Programming Language: python    
 Extension: .py    
 Description:    
