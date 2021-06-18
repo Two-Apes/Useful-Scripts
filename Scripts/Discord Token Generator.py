@@ -1,5 +1,3 @@
-#Two-Apes, GitHub
-
 import random
 import time
 import base64
