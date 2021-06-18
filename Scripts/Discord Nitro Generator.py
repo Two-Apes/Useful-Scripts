@@ -1,4 +1,3 @@
-# Two-Apes, GitHub
 import random, string
 amount = int(input('TWO-APES | (all the codes are unchecked) How many Nitro codes do you want to be generated?: '))
 value = 1
