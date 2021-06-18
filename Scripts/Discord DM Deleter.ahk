@@ -1,4 +1,3 @@
-;Two-Apes, GitHub
 ^j::
 Loop, 1000
 {
