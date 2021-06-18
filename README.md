@@ -15,13 +15,13 @@ Image:
 Programming Language: AutoHotKey    
 Extension: .ahk   
 Description: Maybe Later    
-Author: Two-Apes    
+Author: WtfIsThis    
 
 ### 3. Discord [unchecked] Nitro Codes Generator
 Programming Language: python    
 Extension: .py    
 Description: Maybe Later    
-Author: Two-Apes    
+Author: WtfIsThis    
 Image:
 
 ![alt text](https://github.com/Two-Apes/Useful-Scripts/blob/main/Images/NitroGenerator.png?raw=true)
@@ -30,7 +30,7 @@ Image:
 Programming Language: python    
 Extension: .py    
 Description: Maybe Later    
-Author: Two-Apes    
+Author: WtfIsThis    
 Image:
 
 ![alt text](https://github.com/Two-Apes/Useful-Scripts/blob/main/Images/TokenGenerator.png?raw=true)
@@ -39,7 +39,7 @@ Image:
 Programming Language: batch script    
 Extension: .bat     
 Description: Maybe Later      
-Author: Two-Apes      
+Author: WtfIsThis      
 Image:    
 
 ![alt text](https://github.com/Two-Apes/Useful-Scripts/blob/main/Images/TaskDisable.png?raw=true)
